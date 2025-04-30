@@ -1,0 +1,5 @@
+numpy==2.0.2
+pillow==11.2.1
+scikit-learn==1.6.1
+ultralytics==8.3.120
+torch==2.6.0
